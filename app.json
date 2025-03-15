@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5de48671-38bc-4fbe-ab35-81bf3c042037"
+      }
+    },
+    "owner": "ko-webcreator"
   }
 }
